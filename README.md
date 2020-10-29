@@ -10,3 +10,6 @@
   return 'YOUR_TMDB_API_KEY';
 }
 `
+
+- [Flutter hands on : Building a movie listing app using Flutter (Part 1)](https://blog.usejournal.com/flutter-hands-on-building-a-movie-listing-app-using-flutter-part-1-c2b22d9be6b8)
+- [Flutter hands on : Building a movie listing app using Flutter (Part 2) — Movie Detail Page](https://medium.com/@anujguptawork/flutter-hands-on-building-a-movie-listing-app-using-flutter-part-2-movie-detail-page-12ef9c7e95cc)
